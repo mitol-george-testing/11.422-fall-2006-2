@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Regional Politics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "74271476-78a6-035d-9a63-c7b08018ca72"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Downtown Management Organizations",
+  "course_description": "This course focuses on the origins, functions, and implications of downtown management organizations (DMOs), such as business improvement districts, in a variety of national contexts including the United States, Canada, South Africa, and the United Kingdom. It critically examines how a range of urban theories provide a rationale for the establishment and design of DMOs; the evolution and transnational transfer of DMO policy; and the spatial and political externalities associated with the local proliferation of DMOs. Particular emphasis is given to the role of DMOs in securing public space.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.422",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
